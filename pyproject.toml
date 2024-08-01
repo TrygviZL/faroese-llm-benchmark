@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "faroese-llm-benchmark"
+version = "0.1.0"
+description = "Benchmarking popular LLM models for the Faroese language"
+authors = ["Trygvi <trygvi.laksafoss@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+openai = "^1.37.1"
+seaborn = "^0.13.2"
+matplotlib = "^3.9.1"
+poetry-plugin-dotenv = "^2.2.3"
+python-dotenv = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

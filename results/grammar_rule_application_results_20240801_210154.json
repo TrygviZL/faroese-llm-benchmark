@@ -1,0 +1,218 @@
+[
+    {
+        "question": {
+            "type": "Fill-in-the-Blank",
+            "question": "Complete the sentence: 'Eg síggi ___ (the elephant - acc.).'",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "sentence": "Eg síggi ___ (the elephant - acc.).",
+            "expected_answer": "fílin",
+            "grammar_rule": "accusative definite singular"
+        },
+        "response": "fílini",
+        "is_correct": false
+    },
+    {
+        "question": {
+            "type": "Multiple Choice",
+            "question": "What is the dative singular form of 'fílur'?",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "word": "fílur",
+            "options": [
+                "fílur",
+                "fíli",
+                "fíls",
+                "fílar"
+            ],
+            "expected_answer": "fíli",
+            "grammar_rule": "dative singular"
+        },
+        "response": "fíli",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "type": "Fill-in-the-Blank",
+            "question": "Complete the sentence: 'Teir ___ (to read - past tense) bókina.'",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "sentence": "Teir ___ (to read - past tense) bókina.",
+            "expected_answer": "lósu",
+            "grammar_rule": "past tense plural"
+        },
+        "response": "lógu",
+        "is_correct": false
+    },
+    {
+        "question": {
+            "type": "Multiple Choice",
+            "question": "Which is the correct form of 'góður' in 'Ein ___ bók'?",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "word": "góður",
+            "options": [
+                "góður",
+                "gott",
+                "góð",
+                "góðan"
+            ],
+            "expected_answer": "góð",
+            "grammar_rule": "adjective agreement - feminine singular indefinite"
+        },
+        "response": "góð",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "type": "Fill-in-the-Blank",
+            "question": "Complete the sentence: 'Vit fara til ___ (the house - gen.).'",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "sentence": "Vit fara til ___ (the house - gen.).",
+            "expected_answer": "húsins",
+            "grammar_rule": "genitive definite singular"
+        },
+        "response": "húsarinnar",
+        "is_correct": false
+    },
+    {
+        "question": {
+            "type": "Multiple Choice",
+            "question": "What is the correct plural form of 'maður'?",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "word": "maður",
+            "options": [
+                "maðurir",
+                "menn",
+                "mannir",
+                "maðir"
+            ],
+            "expected_answer": "menn",
+            "grammar_rule": "irregular plural"
+        },
+        "response": "menn",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "type": "Fill-in-the-Blank",
+            "question": "Complete the sentence: 'Hon ___ (to sing - present tense) væl.'",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "sentence": "Hon ___ (to sing - present tense) væl.",
+            "expected_answer": "syngur",
+            "grammar_rule": "present tense singular"
+        },
+        "response": "syngur",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "type": "Multiple Choice",
+            "question": "Which is the correct form of 'stórur' in 'Tey stóru húsini'?",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "word": "stórur",
+            "options": [
+                "stór",
+                "stóra",
+                "stóru",
+                "stórar"
+            ],
+            "expected_answer": "stóru",
+            "grammar_rule": "adjective agreement - plural definite"
+        },
+        "response": "stóru",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "type": "Multiple Choice",
+            "question": "What is the correct past participle of 'fara'?",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "word": "fara",
+            "options": [
+                "farið",
+                "farin",
+                "farið",
+                "fart"
+            ],
+            "expected_answer": "farið",
+            "grammar_rule": "past participle"
+        },
+        "response": "Farið",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "type": "Fill-in-the-Blank",
+            "question": "Complete the sentence: 'Tey ___ (to buy - future tense) ein nýggjan bil.'",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "sentence": "Tey ___ (to buy - future tense) ein nýggjan bil.",
+            "expected_answer": "fara at keypa",
+            "grammar_rule": "future tense"
+        },
+        "response": "keypa",
+        "is_correct": false
+    },
+    {
+        "question": {
+            "type": "Fill-in-the-Blank",
+            "question": "Complete the sentence: 'Vit tosa við ___ (the teacher - acc.).'",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "sentence": "Vit tosa við ___ (the teacher - acc.).",
+            "expected_answer": "læraran",
+            "grammar_rule": "accusative definite singular"
+        },
+        "response": "læraran",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "type": "Fill-in-the-Blank",
+            "question": "Complete the sentence: 'Hon ___ (to work - present perfect) í mong ár.'",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "sentence": "Hon ___ (to work - present perfect) í mong ár.",
+            "expected_answer": "hevur arbeitt",
+            "grammar_rule": "present perfect"
+        },
+        "response": "hevur",
+        "is_correct": false
+    },
+    {
+        "question": {
+            "type": "Fill-in-the-Blank",
+            "question": "Complete the sentence: 'Teir fóru til ___ (the store - gen.) at keypa mat.'",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "sentence": "Teir fóru til ___ (the store - gen.) at keypa mat.",
+            "expected_answer": "handilsins",
+            "grammar_rule": "genitive definite singular"
+        },
+        "response": "handilsins",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "type": "Multiple Choice",
+            "question": "What is the correct past tense of 'geva'?",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "word": "geva",
+            "options": [
+                "gevdi",
+                "gav",
+                "gavi",
+                "gevað"
+            ],
+            "expected_answer": "gav",
+            "grammar_rule": "past tense irregular verb"
+        },
+        "response": "gav",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "type": "Fill-in-the-Blank",
+            "question": "Complete the sentence: 'Bókin liggur á ___ (the table - dat.).'",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "sentence": "Bókin liggur á ___ (the table - dat.).",
+            "expected_answer": "borðinum",
+            "grammar_rule": "dative definite singular"
+        },
+        "response": "borðinum",
+        "is_correct": true
+    }
+]

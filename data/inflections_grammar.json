@@ -1,0 +1,456 @@
+{
+  "nouns": [
+    {
+      "word": "fílur",
+      "translated": "elephant",
+      "declensions": {
+        "singular": {
+          "indefinite": {
+            "nominative": "fílur",
+            "accusative": "fíl",
+            "dative": "fíli",
+            "genitive": "fíls"
+          },
+          "definite": {
+            "nominative": "fílurin",
+            "accusative": "fílin",
+            "dative": "fílinum",
+            "genitive": "fílsins"
+          }
+        },
+        "plural": {
+          "indefinite": {
+            "nominative": "fílar",
+            "accusative": "fílar",
+            "dative": "fílum",
+            "genitive": "fíla"
+          },
+          "definite": {
+            "nominative": "fílarnir",
+            "accusative": "fílarnar",
+            "dative": "fílunum",
+            "genitive": "fílanna"
+          }
+        }
+      }
+    },
+    {
+      "word": "hús",
+      "translated": "house",
+      "declensions": {
+        "singular": {
+          "indefinite": {
+            "nominative": "hús",
+            "accusative": "hús",
+            "dative": "húsi",
+            "genitive": "hús"
+          },
+          "definite": {
+            "nominative": "húsið",
+            "accusative": "húsið",
+            "dative": "húsinum",
+            "genitive": "húsins"
+          }
+        },
+        "plural": {
+          "indefinite": {
+            "nominative": "hús",
+            "accusative": "hús",
+            "dative": "húsum",
+            "genitive": "húsa"
+          },
+          "definite": {
+            "nominative": "húsini",
+            "accusative": "húsini",
+            "dative": "húsunum",
+            "genitive": "húsanna"
+          }
+        }
+      }
+    },
+    {
+      "word": "lærari",
+      "translated": "teacher",
+      "declensions": {
+        "singular": {
+          "indefinite": {
+            "nominative": "lærari",
+            "accusative": "lærara",
+            "dative": "lærara",
+            "genitive": "lærara"
+          },
+          "definite": {
+            "nominative": "lærarin",
+            "accusative": "læraran",
+            "dative": "læraranum",
+            "genitive": "lærarans"
+          }
+        },
+        "plural": {
+          "indefinite": {
+            "nominative": "lærarar",
+            "accusative": "lærarar",
+            "dative": "lærarum",
+            "genitive": "lærara"
+          },
+          "definite": {
+            "nominative": "lærararnir",
+            "accusative": "lærararnar",
+            "dative": "lærarunum",
+            "genitive": "læraranna"
+          }
+        }
+      }
+    },
+    {
+      "word": "sangur",
+      "translated": "song",
+      "declensions": {
+        "singular": {
+          "indefinite": {
+            "nominative": "sangur",
+            "accusative": "sang",
+            "dative": "sangi",
+            "genitive": "sangs"
+          },
+          "definite": {
+            "nominative": "sangurin",
+            "accusative": "sangin",
+            "dative": "sanginum",
+            "genitive": "sangsins"
+          }
+        },
+        "plural": {
+          "indefinite": {
+            "nominative": "sangir",
+            "accusative": "sangir",
+            "dative": "sangum",
+            "genitive": "sanga"
+          },
+          "definite": {
+            "nominative": "sangirnir",
+            "accusative": "sangirnar",
+            "dative": "sangunum",
+            "genitive": "sanganna"
+          }
+        }
+      }
+    },
+    {
+      "word": "vøkstur",
+      "translated": "growth",
+      "declensions": {
+        "singular": {
+          "indefinite": {
+            "nominative": "vøkstur",
+            "accusative": ["vøkstur", "vøkst"],
+            "dative": ["vøkstri", "vøksti"],
+            "genitive": ["vakstrar", "vakstar"]
+          },
+          "definite": {
+            "nominative": "vøksturin",
+            "accusative": ["vøksturin", "vøkstin"],
+            "dative": ["vøkstrinum", "vøkstinum"],
+            "genitive": ["vakstrarins", "vakstarins"]
+          }
+        },
+        "plural": {
+          "indefinite": {
+            "nominative": ["vøkstrir", "vøkstir"],
+            "accusative": ["vøkstrir", "vøkstir"],
+            "dative": ["vøkstrum", "vøkstum"],
+            "genitive": ["vakstra", "vaksta"]
+          },
+          "definite": {
+            "nominative": ["vøkstrirnir", "vøkstirnir"],
+            "accusative": ["vøkstrirnar", "vøkstirnar"],
+            "dative": ["vøkstrunum", "vøkstunum"],
+            "genitive": ["vakstranna", "vakstanna"]
+          }
+        }
+      }
+    },
+    {
+      "word": "læra",
+      "translated": "learn",
+      "declensions": {
+        "singular": {
+          "indefinite": {
+            "nominative": "læra",
+            "accusative": "læru",
+            "dative": "læru",
+            "genitive": "læru"
+          },
+          "definite": {
+            "nominative": "læran",
+            "accusative": "læruna",
+            "dative": "læruni",
+            "genitive": "lærunnar"
+          }
+        },
+        "plural": {
+          "indefinite": {
+            "nominative": "lærur",
+            "accusative": "lærur",
+            "dative": "lærum",
+            "genitive": "læra"
+          },
+          "definite": {
+            "nominative": "lærurnar",
+            "accusative": "lærurnar",
+            "dative": "lærunum",
+            "genitive": "læranna"
+          }
+        }
+      }
+    }
+  ],
+  "verbs": [
+    {
+      "word": "renna",
+      "translated": "run",
+      "conjugations": {
+        "infinitive": "renna",
+        "present_3rd_singular": "rennur",
+        "past_singular": "rann",
+        "past_plural": "runnu",
+        "past_participle": "runnið",
+        "past_participle_masculine_nominative": "runnin"
+      }
+    },
+    {
+      "word": "lesa",
+      "translated": "read",
+      "conjugations": {
+        "infinitive": "lesa",
+        "present_3rd_singular": "lesur",
+        "past_singular": "las",
+        "past_plural": "lósu",
+        "past_participle": "lisið",
+        "past_participle_masculine_nominative": "lisin"
+      }
+    },
+    {
+      "word": "elska",
+      "translated": "love",
+      "conjugations": {
+        "infinitive": "elska",
+        "present_3rd_singular": "elskar",
+        "past_singular": "elskaði",
+        "past_plural": "elskaðu",
+        "past_participle": "elskað",
+        "past_participle_masculine_nominative": "elskaður"
+      }
+    },
+    {
+      "word": "læra",
+      "translated": "learn",
+      "conjugations": {
+        "infinitive": "læra",
+        "present_3rd_singular": "lærir",
+        "past_singular": "lærdi",
+        "past_plural": "lærdu",
+        "past_participle": "lært",
+        "past_participle_masculine_nominative": "lærdur"
+      }
+    },
+    {
+      "word": "súkkla",
+      "translated": "bicycle",
+      "conjugations": {
+        "infinitive": "súkkla",
+        "present_3rd_singular": "súkklar",
+        "past_singular": "súkklaði",
+        "past_plural": "súkklaðu",
+        "past_participle": "súkklað",
+        "past_participle_masculine_nominative": "súkklaður"
+      }
+    }
+  ],
+  "adjectives": [
+    {
+      "word": "góður",
+      "translated": "good",
+      "declensions": {
+        "singular": {
+          "masculine": {
+            "nominative": "góður",
+            "accusative": "góðan",
+            "dative": "góðum",
+            "genitive": "góðs"
+          },
+          "feminine": {
+            "nominative": "góð",
+            "accusative": "góða",
+            "dative": "góðari",
+            "genitive": "góðar"
+          },
+          "neuter": {
+            "nominative": "gott",
+            "accusative": "gott",
+            "dative": "góðum",
+            "genitive": "góðs"
+          }
+        },
+        "plural": {
+          "masculine": {
+            "nominative": "góðir",
+            "accusative": "góðar",
+            "dative": "góðum",
+            "genitive": "góða"
+          },
+          "feminine": {
+            "nominative": "góðar",
+            "accusative": "góðar",
+            "dative": "góðum",
+            "genitive": "góða"
+          },
+          "neuter": {
+            "nominative": "góð",
+            "accusative": "góð",
+            "dative": "góðum",
+            "genitive": "góða"
+          }
+        }
+      }
+    },
+    {
+      "word": "smáur",
+      "translated": "small",
+      "declensions": {
+        "singular": {
+          "masculine": {
+            "nominative": "smáur",
+            "accusative": "smáan",
+            "dative": "smáum",
+            "genitive": "smás"
+          },
+          "feminine": {
+            "nominative": "smá",
+            "accusative": "smáa",
+            "dative": "smáari",
+            "genitive": "smáar"
+          },
+          "neuter": {
+            "nominative": "smátt",
+            "accusative": "smátt",
+            "dative": "smáum",
+            "genitive": "smás"
+          }
+        },
+        "plural": {
+          "masculine": {
+            "nominative": "smáir",
+            "accusative": "smáar",
+            "dative": "smáum",
+            "genitive": "smáa"
+          },
+          "feminine": {
+            "nominative": "smáar",
+            "accusative": "smáar",
+            "dative": "smáum",
+            "genitive": "smáa"
+          },
+          "neuter": {
+            "nominative": "smá",
+            "accusative": "smá",
+            "dative": "smáum",
+            "genitive": "smáa"
+          }
+        }
+      }
+    },
+    {
+      "word": "grønur",
+      "translated": "green",
+      "declensions": {
+        "singular": {
+          "masculine": {
+            "nominative": "grønur",
+            "accusative": "grønan",
+            "dative": "grønum",
+            "genitive": "grøns"
+          },
+          "feminine": {
+            "nominative": "grøn",
+            "accusative": "grøna",
+            "dative": "grønari",
+            "genitive": "grønar"
+          },
+          "neuter": {
+            "nominative": "grønt",
+            "accusative": "grønt",
+            "dative": "grønum",
+            "genitive": "grøns"
+          }
+        },
+        "plural": {
+          "masculine": {
+            "nominative": "grønir",
+            "accusative": "grønar",
+            "dative": "grønum",
+            "genitive": "grøna"
+          },
+          "feminine": {
+            "nominative": "grønar",
+            "accusative": "grønar",
+            "dative": "grønum",
+            "genitive": "grøna"
+          },
+          "neuter": {
+            "nominative": "grøn",
+            "accusative": "grøn",
+            "dative": "grønum",
+            "genitive": "grøna"
+          }
+        }
+      }
+    },
+    {
+      "word": "flottur",
+      "translated": "pretty",
+      "declensions": {
+        "singular": {
+          "masculine": {
+            "nominative": "flottur",
+            "accusative": "flottan",
+            "dative": "flottum",
+            "genitive": "flots"
+          },
+          "feminine": {
+            "nominative": "flott",
+            "accusative": "flotta",
+            "dative": "flottari",
+            "genitive": "flottar"
+          },
+          "neuter": {
+            "nominative": "flott",
+            "accusative": "flott",
+            "dative": "flottum",
+            "genitive": "flots"
+          }
+        },
+        "plural": {
+          "masculine": {
+            "nominative": "flottir",
+            "accusative": "flottar",
+            "dative": "flottum",
+            "genitive": "flotta"
+          },
+          "feminine": {
+            "nominative": "flottar",
+            "accusative": "flottar",
+            "dative": "flottum",
+            "genitive": "flotta"
+          },
+          "neuter": {
+            "nominative": "flott",
+            "accusative": "flott",
+            "dative": "flottum",
+            "genitive": "flotta"
+          }
+        }
+      }
+    }
+  ]
+}

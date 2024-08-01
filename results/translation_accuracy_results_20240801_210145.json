@@ -1,0 +1,326 @@
+[
+    {
+        "question": {
+            "type": "Faroese to English",
+            "question": "Translate: 'Fílarnir ganga í skóginum.'",
+            "system_prompt": "You are a Language model which specializes in translation to faroese. When given a task, answer in only with the translated text",
+            "faroese": "Fílarnir ganga í skóginum.",
+            "expected_answer": "The elephants walk in the forest.",
+            "grammar_focus": [
+                "definite plural",
+                "present tense"
+            ]
+        },
+        "response": "The elephants walk in the forest.",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "type": "English to Faroese",
+            "question": "Translate: 'The elephant is big.'",
+            "system_prompt": "You are a Language model which specializes in translation to faroese. When given a task, answer in only with the translated text",
+            "english": "The elephant is big.",
+            "expected_answer": "Fílurin er stórur.",
+            "grammar_focus": [
+                "definite singular",
+                "present tense",
+                "adjective agreement"
+            ]
+        },
+        "response": "Fílurin er stórur.",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "type": "Faroese to English",
+            "question": "Translate: 'Lærararnir lesa góðar bøkur.'",
+            "system_prompt": "You are a Language model which specializes in translation to faroese. When given a task, answer in only with the translated text",
+            "faroese": "Lærararnir lesa góðar bøkur.",
+            "expected_answer": "The teachers read good books.",
+            "grammar_focus": [
+                "definite plural",
+                "present tense",
+                "adjective agreement"
+            ]
+        },
+        "response": "The teachers read good books.",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "type": "English to Faroese",
+            "question": "Translate: 'We sang beautiful songs.'",
+            "system_prompt": "You are a Language model which specializes in translation to faroese. When given a task, answer in only with the translated text",
+            "english": "We sang beautiful songs.",
+            "expected_answer": "Vit sungu vakrar sangir.",
+            "grammar_focus": [
+                "past tense",
+                "adjective agreement",
+                "plural"
+            ]
+        },
+        "response": "Vit sungu vakrar sangir.",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "type": "Faroese to English",
+            "question": "Translate: 'Húsið er gamalt og stórt.'",
+            "system_prompt": "You are a Language model which specializes in translation to faroese. When given a task, answer in only with the translated text",
+            "faroese": "Húsið er gamalt og stórt.",
+            "expected_answer": "The house is old and big.",
+            "grammar_focus": [
+                "definite singular",
+                "present tense",
+                "adjective agreement"
+            ]
+        },
+        "response": "Húsið er old and big.",
+        "is_correct": false
+    },
+    {
+        "question": {
+            "type": "English to Faroese",
+            "question": "Translate: 'The children play in the garden.'",
+            "system_prompt": "You are a Language model which specializes in translation to faroese. When given a task, answer in only with the translated text",
+            "english": "The children play in the garden.",
+            "expected_answer": "Børnini spæla í garðinum.",
+            "grammar_focus": [
+                "definite plural",
+                "present tense",
+                "prepositional phrase"
+            ]
+        },
+        "response": "Børnini spæla í urtagarðinum.",
+        "is_correct": false
+    },
+    {
+        "question": {
+            "type": "Faroese to English",
+            "question": "Translate: 'Eg las bókina í gjár.'",
+            "system_prompt": "You are a Language model which specializes in translation to faroese. When given a task, answer in only with the translated text",
+            "faroese": "Eg las bókina í gjár.",
+            "expected_answer": "I read the book yesterday.",
+            "grammar_focus": [
+                "past tense",
+                "definite singular",
+                "time expression"
+            ]
+        },
+        "response": "I read the book yesterday.",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "type": "English to Faroese",
+            "question": "Translate: 'She will buy a new car tomorrow.'",
+            "system_prompt": "You are a Language model which specializes in translation to faroese. When given a task, answer in only with the translated text",
+            "english": "She will buy a new car tomorrow.",
+            "expected_answer": "Hon fer at keypa ein nýggjan bil í morgin.",
+            "grammar_focus": [
+                "future tense",
+                "indefinite singular",
+                "adjective agreement",
+                "time expression"
+            ]
+        },
+        "response": "Hon fer at keypa sær ein nýggjan bil í morgin.",
+        "is_correct": false
+    },
+    {
+        "question": {
+            "type": "Faroese to English",
+            "question": "Translate: 'Teir fóru til handilsin at keypa mat.'",
+            "system_prompt": "You are a Language model which specializes in translation to faroese. When given a task, answer in only with the translated text",
+            "faroese": "Teir fóru til handilsin at keypa mat.",
+            "expected_answer": "They went to the store to buy food.",
+            "grammar_focus": [
+                "past tense",
+                "definite singular",
+                "infinitive"
+            ]
+        },
+        "response": "They went to the store to buy food.",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "type": "English to Faroese",
+            "question": "Translate: 'The blue house is on the hill.'",
+            "system_prompt": "You are a Language model which specializes in translation to faroese. When given a task, answer in only with the translated text",
+            "english": "The blue house is on the hill.",
+            "expected_answer": "Tað bláa húsið er á bakkanum.",
+            "grammar_focus": [
+                "definite singular",
+                "present tense",
+                "adjective agreement",
+                "prepositional phrase"
+            ]
+        },
+        "response": "Húsið bláa er á hæddini.",
+        "is_correct": false
+    },
+    {
+        "question": {
+            "type": "Faroese to English",
+            "question": "Translate: 'Vit hava etið nógvan fisk í dag.'",
+            "system_prompt": "You are a Language model which specializes in translation to faroese. When given a task, answer in only with the translated text",
+            "faroese": "Vit hava etið nógvan fisk í dag.",
+            "expected_answer": "We have eaten a lot of fish today.",
+            "grammar_focus": [
+                "present perfect",
+                "quantifier",
+                "time expression"
+            ]
+        },
+        "response": "We have eaten a lot of fish today.",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "type": "English to Faroese",
+            "question": "Translate: 'The birds are singing in the trees.'",
+            "system_prompt": "You are a Language model which specializes in translation to faroese. When given a task, answer in only with the translated text",
+            "english": "The birds are singing in the trees.",
+            "expected_answer": "Fuglarnir syngja í trøunum.",
+            "grammar_focus": [
+                "definite plural",
+                "present continuous",
+                "prepositional phrase"
+            ]
+        },
+        "response": "Fuglarnir syngja í trøunum.",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "type": "Faroese to English",
+            "question": "Translate: 'Hon hevur skrivað eina langa søgu.'",
+            "system_prompt": "You are a Language model which specializes in translation to faroese. When given a task, answer in only with the translated text",
+            "faroese": "Hon hevur skrivað eina langa søgu.",
+            "expected_answer": "She has written a long story.",
+            "grammar_focus": [
+                "present perfect",
+                "indefinite singular",
+                "adjective agreement"
+            ]
+        },
+        "response": "She has written a long story.",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "type": "English to Faroese",
+            "question": "Translate: 'My brother lives in a small village.'",
+            "system_prompt": "You are a Language model which specializes in translation to faroese. When given a task, answer in only with the translated text",
+            "english": "My brother lives in a small village.",
+            "expected_answer": "Beiggi mín býr í einum lítlum bygd.",
+            "grammar_focus": [
+                "possessive",
+                "present tense",
+                "prepositional phrase",
+                "adjective agreement"
+            ]
+        },
+        "response": "Beiggi mín býr í eini lítlari bygd.",
+        "is_correct": false
+    },
+    {
+        "question": {
+            "type": "Faroese to English",
+            "question": "Translate: 'Tey ferðast ofta til útlond.'",
+            "system_prompt": "You are a Language model which specializes in translation to faroese. When given a task, answer in only with the translated text",
+            "faroese": "Tey ferðast ofta til útlond.",
+            "expected_answer": "They often travel to foreign countries.",
+            "grammar_focus": [
+                "present tense",
+                "adverb",
+                "plural"
+            ]
+        },
+        "response": "They often travel abroad.",
+        "is_correct": false
+    },
+    {
+        "question": {
+            "type": "English to Faroese",
+            "question": "Translate: 'The old man walks slowly.'",
+            "system_prompt": "You are a Language model which specializes in translation to faroese. When given a task, answer in only with the translated text",
+            "english": "The old man walks slowly.",
+            "expected_answer": "Tann gamli maðurin gongur spakuliga.",
+            "grammar_focus": [
+                "definite singular",
+                "present tense",
+                "adjective agreement",
+                "adverb"
+            ]
+        },
+        "response": "Gamli maðurin gongur spakuliga.",
+        "is_correct": false
+    },
+    {
+        "question": {
+            "type": "Faroese to English",
+            "question": "Translate: 'Børnini drekka mjólk hvønn dag.'",
+            "system_prompt": "You are a Language model which specializes in translation to faroese. When given a task, answer in only with the translated text",
+            "faroese": "Børnini drekka mjólk hvønn dag.",
+            "expected_answer": "The children drink milk every day.",
+            "grammar_focus": [
+                "definite plural",
+                "present tense",
+                "time expression"
+            ]
+        },
+        "response": "The children drink milk every day.",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "type": "English to Faroese",
+            "question": "Translate: 'I will visit my grandmother next week.'",
+            "system_prompt": "You are a Language model which specializes in translation to faroese. When given a task, answer in only with the translated text",
+            "english": "I will visit my grandmother next week.",
+            "expected_answer": "Eg fari at vitja ommu mína næstu viku.",
+            "grammar_focus": [
+                "future tense",
+                "possessive",
+                "time expression"
+            ]
+        },
+        "response": "Eg fari at vitja ommu mína næstu viku.",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "type": "Faroese to English",
+            "question": "Translate: 'Teir hava bygt eitt nýtt hús.'",
+            "system_prompt": "You are a Language model which specializes in translation to faroese. When given a task, answer in only with the translated text",
+            "faroese": "Teir hava bygt eitt nýtt hús.",
+            "expected_answer": "They have built a new house.",
+            "grammar_focus": [
+                "present perfect",
+                "indefinite singular",
+                "adjective agreement"
+            ]
+        },
+        "response": "They have built a new house.",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "type": "English to Faroese",
+            "question": "Translate: 'The cat sleeps on the soft pillow.'",
+            "system_prompt": "You are a Language model which specializes in translation to faroese. When given a task, answer in only with the translated text",
+            "english": "The cat sleeps on the soft pillow.",
+            "expected_answer": "Katturin svevur á tí bleyta putunum.",
+            "grammar_focus": [
+                "definite singular",
+                "present tense",
+                "prepositional phrase",
+                "adjective agreement"
+            ]
+        },
+        "response": "Kettan svevur á bleyta pútuni.",
+        "is_correct": false
+    }
+]

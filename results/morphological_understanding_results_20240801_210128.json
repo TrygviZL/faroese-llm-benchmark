@@ -1,0 +1,301 @@
+[
+    {
+        "question": {
+            "question": "What is the accusative singular indefinite form of 'fílur'?",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "expected_answer": "fíl",
+            "grammatical_context": {
+                "case": "accusative",
+                "number": "singular",
+                "definiteness": "indefinite"
+            }
+        },
+        "response": "fíl",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "question": "What is the dative plural definite form of 'hús'?",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "word": "hús",
+            "expected_answer": "húsunum",
+            "grammatical_context": {
+                "case": "dative",
+                "number": "plural",
+                "definiteness": "definite"
+            }
+        },
+        "response": "húsunum",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "question": "What is the genitive singular definite form of 'lærari'?",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "word": "lærari",
+            "expected_answer": "lærarans",
+            "grammatical_context": {
+                "case": "genitive",
+                "number": "singular",
+                "definiteness": "definite"
+            }
+        },
+        "response": "lærarans",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "question": "What is the nominative plural indefinite form of 'sangur'?",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "word": "sangur",
+            "expected_answer": "sangir",
+            "grammatical_context": {
+                "case": "nominative",
+                "number": "plural",
+                "definiteness": "indefinite"
+            }
+        },
+        "response": "sangir",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "question": "What is the accusative singular definite form of 'vøkstur'?",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "word": "vøkstur",
+            "expected_answer": "vøksturin",
+            "grammatical_context": {
+                "case": "accusative",
+                "number": "singular",
+                "definiteness": "definite"
+            }
+        },
+        "response": "vøksturin",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "question": "What is the dative singular indefinite form of 'læra'?",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "word": "læra",
+            "expected_answer": "læru",
+            "grammatical_context": {
+                "case": "dative",
+                "number": "singular",
+                "definiteness": "indefinite"
+            }
+        },
+        "response": "læru",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "question": "What is the genitive plural definite form of 'fílur'?",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "word": "fílur",
+            "expected_answer": "fílanna",
+            "grammatical_context": {
+                "case": "genitive",
+                "number": "plural",
+                "definiteness": "definite"
+            }
+        },
+        "response": "fílanna",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "question": "What is the nominative singular definite form of 'hús'?",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "word": "hús",
+            "expected_answer": "húsið",
+            "grammatical_context": {
+                "case": "nominative",
+                "number": "singular",
+                "definiteness": "definite"
+            }
+        },
+        "response": "húsið",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "question": "What is the accusative plural indefinite form of 'lærari'?",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "word": "lærari",
+            "expected_answer": "lærarar",
+            "grammatical_context": {
+                "case": "accusative",
+                "number": "plural",
+                "definiteness": "indefinite"
+            }
+        },
+        "response": "lærarar",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "question": "What is the dative singular definite form of 'sangur'?",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "word": "sangur",
+            "expected_answer": "sanginum",
+            "grammatical_context": {
+                "case": "dative",
+                "number": "singular",
+                "definiteness": "definite"
+            }
+        },
+        "response": "sanginum",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "question": "What is the genitive singular indefinite form of 'vøkstur'?",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "word": "vøkstur",
+            "expected_answer": "vakstrar",
+            "grammatical_context": {
+                "case": "genitive",
+                "number": "singular",
+                "definiteness": "indefinite"
+            }
+        },
+        "response": "vøksturar",
+        "is_correct": false
+    },
+    {
+        "question": {
+            "question": "What is the nominative plural definite form of 'læra'?",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "word": "læra",
+            "expected_answer": "lærurnar",
+            "grammatical_context": {
+                "case": "nominative",
+                "number": "plural",
+                "definiteness": "definite"
+            }
+        },
+        "response": "lærur",
+        "is_correct": false
+    },
+    {
+        "question": {
+            "question": "What is the accusative singular indefinite form of 'hús'?",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "word": "hús",
+            "expected_answer": "hús",
+            "grammatical_context": {
+                "case": "accusative",
+                "number": "singular",
+                "definiteness": "indefinite"
+            }
+        },
+        "response": "hús",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "question": "What is the dative plural indefinite form of 'lærari'?",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "word": "lærari",
+            "expected_answer": "lærarum",
+            "grammatical_context": {
+                "case": "dative",
+                "number": "plural",
+                "definiteness": "indefinite"
+            }
+        },
+        "response": "lærarum",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "question": "What is the genitive singular definite form of 'sangur'?",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "word": "sangur",
+            "expected_answer": "sangsins",
+            "grammatical_context": {
+                "case": "genitive",
+                "number": "singular",
+                "definiteness": "definite"
+            }
+        },
+        "response": "sangsins",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "question": "What is the nominative singular indefinite form of 'vøkstur'?",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "word": "vøkstur",
+            "expected_answer": "vøkstur",
+            "grammatical_context": {
+                "case": "nominative",
+                "number": "singular",
+                "definiteness": "indefinite"
+            }
+        },
+        "response": "vøkstur",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "question": "What is the accusative plural definite form of 'læra'?",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "word": "læra",
+            "expected_answer": "lærurnar",
+            "grammatical_context": {
+                "case": "accusative",
+                "number": "plural",
+                "definiteness": "definite"
+            }
+        },
+        "response": "lærarnar",
+        "is_correct": false
+    },
+    {
+        "question": {
+            "question": "What is the dative singular indefinite form of 'fílur'?",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "word": "fílur",
+            "expected_answer": "fíli",
+            "grammatical_context": {
+                "case": "dative",
+                "number": "singular",
+                "definiteness": "indefinite"
+            }
+        },
+        "response": "fíli",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "question": "What is the genitive plural indefinite form of 'hús'?",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "word": "hús",
+            "expected_answer": "húsa",
+            "grammatical_context": {
+                "case": "genitive",
+                "number": "plural",
+                "definiteness": "indefinite"
+            }
+        },
+        "response": "húsa",
+        "is_correct": true
+    },
+    {
+        "question": {
+            "question": "What is the nominative singular definite form of 'lærari'?",
+            "system_prompt": "You are a Language model which specializes in faroese grammar rules. When given a task, answer in only one word",
+            "word": "lærari",
+            "expected_answer": "lærarin",
+            "grammatical_context": {
+                "case": "nominative",
+                "number": "singular",
+                "definiteness": "definite"
+            }
+        },
+        "response": "Lærarin",
+        "is_correct": true
+    }
+]
